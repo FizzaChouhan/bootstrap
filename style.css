@@ -1,0 +1,72 @@
+.logo{
+    width: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.button{
+    background-color:#5fcac7 ;
+    padding: 10px;
+    width: 200px;
+}
+
+.icons{
+   display: flex;
+   flex-direction: row;
+    align-items: center;
+    margin-left: 30px;
+    gap: 30px;
+}
+.heading{
+    font-size: 80px;
+}
+.para{
+    font-size: 50px;
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    position: absolute;
+    top: 50px;
+}
+.hs{
+    color: #4b4342 ;
+   margin:50px;
+   font-size: 50px;
+}
+.image{
+    width: 300px;
+}
+.im{
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.background{
+   background-image:"images/bglast.jpg";
+}
+.card{
+    background-color: pink;
+}
+.client{
+    background-color: pink;
+    color: white;
+   
+    
+}
+.iml{
+    width: 100px;
+}
+.clientsimg{
+    width:100px ;
+    margin-left: 30px;
+}
+.lasts{
+    background-image:"images/bglasts.jpg";
+    background-color: #4b4342;
+   padding-top: 30px;
+}
+.email{
+    background: transparent;
+width: 100px;
+}
